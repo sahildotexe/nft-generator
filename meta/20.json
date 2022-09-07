@@ -1,0 +1,26 @@
+{
+  "name": "That's What She Said #20",
+  "symbol": "TWSS",
+  "description": "That's What She Said",
+  "seller_fee_basis_points": 1000,
+  "image": "20.png",
+  "external_url": "",
+  "edition": 0,
+  "attributes": [
+    { "trait_type": "Background", "value": "Black" },
+    {
+      "trait_type": "Text",
+      "value": "I know. It's thick and big, just how I like it.\r"
+    }
+  ],
+  "properties": {
+    "files": [{ "uri": "20.png", "type": "image/png" }],
+    "category": "image",
+    "creators": [
+      {
+        "address": "ESs5sfxnV82fvwWu3mdGR8tN7XVyiseoGAEsK35cNKC8",
+        "share": 100
+      }
+    ]
+  }
+}
